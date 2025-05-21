@@ -15,7 +15,7 @@ A responsive React-based web application designed to help users create and manag
 
 ## 🎬 Demo
 
-### *The first screenshot displays the initial state of the shopping list application, showcasing a clean interface before any items have been added.*
+#### The first screenshot displays the initial state of the shopping list application, showcasing a clean interface before any items have been added.
 ![Screenshot 2025-05-20 203129](https://github.com/user-attachments/assets/3a47488e-13f0-4f50-8042-a449c5d17e20)
 
 
