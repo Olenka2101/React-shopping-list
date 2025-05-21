@@ -1,7 +1,7 @@
-# 🚀 Project Name
+# 🚀 Shopping List
 
-A short, clear description of your project and its purpose.  
-(Example: A responsive web app that helps users track their daily tasks efficiently.)
+Shopping List Application
+A responsive React-based web application designed to help users create and manage their grocery shopping lists with ease. The app allows for adding, editing, and removing items, providing a simple and intuitive interface to streamline the grocery planning experience.
 
 ## 📖 Table of Contents
 
@@ -25,7 +25,6 @@ A short, clear description of your project and its purpose.
 - Feature 2 – e.g., RESTful API integration
 - Feature 3 – e.g., Dark mode toggle
 - Feature 4 – e.g., User authentication with JWT
-
 
 # Getting Started with Create React App
 
