@@ -14,20 +14,22 @@ A responsive React-based web application designed to help users create and manag
 - [License](#license)
 
 ## 🎬 Demo
-![Screenshot 2025-05-20 203129](https://github.com/user-attachments/assets/3a47488e-13f0-4f50-8042-a449c5d17e20)
 
 The first screenshot displays the initial state of the shopping list application, showcasing a clean interface before any items have been added.
+![Screenshot 2025-05-20 203129](https://github.com/user-attachments/assets/3a47488e-13f0-4f50-8042-a449c5d17e20)
 
-![Screenshot 2025-05-20 203320](https://github.com/user-attachments/assets/499ab349-51bd-4dda-b16c-f3fb2375c440)
 
 The second screenshot displays the shopping list populated with multiple items, highlighting the application's core functionality and user interaction. 
 Users can easily add new items by entering text into the input field and either clicking the "Add" button or pressing the Enter key, ensuring a smooth and intuitive user experience.
+![Screenshot 2025-05-20 203320](https://github.com/user-attachments/assets/499ab349-51bd-4dda-b16c-f3fb2375c440)
 
-![Screenshot 2025-05-20 203552](https://github.com/user-attachments/assets/e904e351-f8b6-487c-a932-461468bb777b)
 
 The third screenshot showcases items on the shopping list that have been marked as completed. 
 Either purchased or no longer needed, by simply clicking on each individual item. 
 To clear the entire list, users can click the "Delete" button, which instantly removes all entries from the shopping list.
+![Screenshot 2025-05-20 203552](https://github.com/user-attachments/assets/e904e351-f8b6-487c-a932-461468bb777b)
+
+
 
 
 
