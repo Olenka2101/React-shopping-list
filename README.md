@@ -14,10 +14,9 @@ A responsive React-based web application designed to help users create and manag
 - [License](#license)
 
 ## 🎬 Demo
+![Screenshot 2025-05-20 203129](https://github.com/user-attachments/assets/3a47488e-13f0-4f50-8042-a449c5d17e20)
 
-[Live Demo](https://your-live-demo-link.com)
 
-![App Screenshot](screenshot.png)
 
 ## ✨ Features
 
