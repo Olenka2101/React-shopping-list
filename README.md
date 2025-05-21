@@ -23,7 +23,7 @@ A responsive React-based web application designed to help users create and manag
 ![Screenshot 2025-05-20 203320](https://github.com/user-attachments/assets/499ab349-51bd-4dda-b16c-f3fb2375c440)
 
 
-###### The third screenshot showcases items on the shopping list that have been marked as completed.Either purchased or no longer needed, by simply clicking on each individual item. To clear the entire list, users can click the "Delete" button, which instantly removes all entries from the shopping list.
+#### `The third screenshot showcases items on the shopping list that have been marked as completed.Either purchased or no longer needed, by simply clicking on each individual item. To clear the entire list, users can click the "Delete" button, which instantly removes all entries from the shopping list.`
 ![Screenshot 2025-05-20 203552](https://github.com/user-attachments/assets/e904e351-f8b6-487c-a932-461468bb777b)
 
 
