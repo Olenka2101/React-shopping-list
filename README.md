@@ -6,12 +6,10 @@ A responsive React-based web application designed to help users create and manag
 ## 📖 Table of Contents
 
 - [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation](#Installation)
+
+
 
 ## 🎬 Demo
 
@@ -28,14 +26,13 @@ A responsive React-based web application designed to help users create and manag
 
 
 
+## 💻 Technologies Used
+⭐ React
+⭐ HTML
+⭐ CSS
 
 
-## ✨ Features
-
-- Feature 1 – e.g., Responsive layout
-- Feature 2 – e.g., RESTful API integration
-- Feature 3 – e.g., Dark mode toggle
-- Feature 4 – e.g., User authentication with JWT
+## 🔐 Installation
 
 # Getting Started with Create React App
 
